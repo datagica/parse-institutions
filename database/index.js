@@ -1,0 +1,5 @@
+const fr    = require('./fr.json')
+const us    = require('./us.json')
+const china = require('./china.json')
+const misc  = require('./misc.json')
+module.exports =  misc.concat(fr).concat(us).concat(china)

@@ -1,0 +1,622 @@
+[{
+  "id": "uae-american-uni-sharjah",
+  "country": "United Arab Emirates",
+  "city": "Sharjah",
+  "location": [
+    25.309722, 55.490556
+  ],
+  "label": {
+    "en": "American University of Sharjah",
+    "fr": "Université Américaine de Sharah"
+  },
+  "aliases": {
+    "en": [
+      "American University of Sharjah"
+    ],
+    "fr": [
+      "Université Américaine de Sharjah"
+    ]
+  },
+  "type": "private university",
+  "students": [{
+    "value": 5553,
+    "year": 2015
+  }],
+  "website": "www.aus.edu",
+  "programs": [
+    "Bachelor of Architecture",
+    "Bachelor of Interior Design",
+    "Bachelor of Science in Design Management",
+    "Bachelor of Science in Multimedia Design",
+    "Bachelor of Science in Visual Communication",
+    "Bachelor of Arts in English Language and Literature",
+    "Bachelor of Arts in International Studies",
+    "Bachelor of Arts in Mass Communication",
+    "Bachelor of Science in Biology",
+    "Bachelor of Science in Chemistry",
+    "Bachelor of Science in Environmental Sciences",
+    "Bachelor of Science in Mathematics",
+    "Bachelor of Science in Chemical Engineering",
+    "Bachelor of Science in Civil Engineering",
+    "Bachelor of Science in Computer Engineering",
+    "Bachelor of Science in Computer Science",
+    "Bachelor of Science in Electrical Engineering",
+    "Bachelor of Science in Industrial Engineering",
+    "Bachelor of Science in Mechanical Engineering",
+    "Bachelor of Arts in Economics",
+    "Bachelor of Science in Business Administration major in Accounting",
+    "Bachelor of Science in Business Administration major in Economics",
+    "Bachelor of Science in Business Administration major in Finance",
+    "Bachelor of Science in Business Administration major in Management",
+    "Bachelor of Science in Business Administration major in Management Information Systems",
+    "Bachelor of Science in Business Administration major in Marketing",
+    "Master of Urban Planning",
+    "Master of Arts in English/Arabic/English Translation and Interpreting",
+    "Master of Arts in Teaching English to Speakers of Other Languages",
+    "Master of Science in Mathematics",
+    "Master of Business Administration",
+    "Executive Master of Business Administration",
+    "Master of Science in Accounting",
+    "Master of Science in Chemical Engineering",
+    "Master of Science in Civil Engineering",
+    "Master of Science in Computer Engineering",
+    "Master of Science in Electrical Engineering",
+    "Master of Science in Engineering Systems Management",
+    "Master of Science in Mechanical Engineering",
+    "Master of Science in Mechatronics Engineering"
+  ]
+}, {
+  "id": "ca-memorial-uni-newfoundland",
+  "street": "30 Elizabeth Ave",
+  "city": "St. John's",
+  "zip_code": "NL A1B 3X9",
+  "country": "canada",
+  "location": [47.57203, -52.73265],
+  "label": {
+    "en": "Memorial University of Newfoundland",
+    "fr": "Université Memorial de Terre-Neuve"
+  },
+  "aliases": {
+    "en": [
+      "memorial University, canada",
+      "memorial University canada",
+      "memorial University, st john",
+      "memorial University st john",
+      "mun, st john, canada",
+      "memorial University newfoundland",
+      "memorial University of newfoundland"
+    ],
+    "fr": [
+      "université memorial de terre-Neuve",
+      "université memorial de terre Neuve",
+      "universite memorial de terre-neuve",
+      "universite memorial de terre neuve"
+    ]
+  },
+  "acceptance_rate": [{
+    "value": 66.8,
+    "year": 2015
+  }],
+  "students": [{
+    "value": 18913,
+    "year": 2012
+  }],
+  "undergraduates": [{
+    "value": 15418,
+    "year": 2012
+  }],
+  "postgraduates": [{
+    "value": 3495,
+    "year": 2012
+  }],
+  "website": "www.mun.ca",
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-dalhousie-uni",
+  "country": "canada",
+  "label": "Dalhousie University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-uni-sherbrooke",
+  "city": "Sherbrooke",
+  "country": "canada",
+  "location": [45.379406, -71.927661],
+  "label": {
+    "en": "Université de Sherbrooke",
+    "fr": "Université de Sherbrooke"
+  },
+  "aliases": {
+    "en": [
+      "university de sherbrooke",
+      "university de sherbrooke",
+      "université of sherbrooke",
+      "universite of sherbrooke",
+      "university of sherbrooke"
+    ],
+    "fr": [
+      "université de sherbrooke",
+      "université de sherbrooke",
+      "universite de sherbrooke",
+      "universite de sherbrooke"
+    ]
+  },
+  "website": "usherbrooke.ca",
+  "students": [{
+    "value": 35000,
+    "year": 2007
+  }],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-laval-uni",
+  "street": "2325 Rue de l'Université",
+  "zip_code": "QC G1V 0A6",
+  "city": "Ville de Québec",
+  "country": "canada",
+  "label": {
+    "fr": "Université Laval",
+    "en": "Laval University"
+  },
+  "aliases": {
+    "fr": [
+
+    ],
+    "en": [
+
+    ]
+  },
+  "website": "www.ulaval.ca",
+  "students": [{
+    "value": 48000,
+    "year": 2013
+  }],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-uni-waterloo",
+  "country": "canada",
+  "label": "University of Waterloo",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-ryerson-uni",
+  "country": "canada",
+  "label": "Ryerson University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-uni-toronto",
+  "country": "canada",
+  "label": "University of Toronto",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-queens-uni",
+  "country": "canada",
+  "label": "Queen's University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-uni-british-columbia",
+  "street": "2329 West Mall",
+  "city": "Vancouver",
+  "country": "canada",
+  "location": [49.261111, -123.253056],
+  "label": {
+    "en": "University of British Columbia",
+    "fr": "Université de la Colombie-Britannique"
+  },
+  "aliases": {
+    "en": [
+      "university of british columbia",
+      "university of british columbia university",
+      "UBC Vancouver",
+      "university of vancouver",
+      "vancouver university"
+    ],
+    "fr": [
+      "université de la colombie-britannique",
+      "universite de colombie-britannique",
+      "université de vancouver"
+    ]
+  },
+  "students": [{
+    "value": 59559,
+    "year": 2014
+  }],
+  "undergraduates": [{
+    "value": 46788,
+    "year": 2014
+  }],
+  "postgraduates": [{
+    "value": 10596,
+    "year": 2014
+  }],
+  "website": "www.ubc.ca",
+  "type": "public research university",
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-uni-victoria",
+  "country": "canada",
+  "label": "University of Victoria",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-carleton-uni",
+  "country": "canada",
+  "label": "Carleton University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "ca-uni-saskatchewan",
+  "country": "canada",
+  "label": "University of Saskatchewan",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "costa rica",
+  "label": "Instituto Tecnologico de Costa Rica",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "dk-tekniske-universitet",
+  "country": "denmark",
+  "label": "Danmarks Tekniske Universitet",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "eg-ain-shams-university",
+  "country": "egypt",
+  "label": "Ain Shams University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "eg-alexandria-university",
+  "country": "egypt",
+  "label": "Alexandria University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "egypt",
+  "label": "Nile University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "egypt",
+  "label": "The American University of Cairo",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "ghana",
+  "label": "Kwame Nkrumah University of Science and Technology",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "ghana",
+  "label": "University of Ghana",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "gr-patras-university",
+  "country": "greece",
+  "label": "University of Patras",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "gr-aegean-university",
+  "country": "greece",
+  "label": "University of the Aegean",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "greece",
+  "label": "Technical University of Crete",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hk-university-of-science-and-technology",
+  "country": "hong kong",
+  "label": {
+    "en": "The Hong Kong University of Science and Technology"
+  },
+  "aliases": {
+    "en": "Hong Kong University of Science and Technology"
+  },
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hk-university-of-hong-kong",
+  "country": "hong kong",
+  "label": {
+    "en": "The University of Hong Kong"
+  },
+  "aliases": {
+    "en": "University of Honk Kong"
+  },
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hk-chinese-university-of-hong-kong",
+  "country": "hong kong",
+  "label": "The Chinese University of Hong Kong",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hk-city-university-of-hong-kong",
+  "country": "hong kong",
+  "label": "The City University of Hong Kong",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hg-budapest-university",
+  "country": "hungary",
+  "label": "Budapest University of Technology and Economics",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hg-pannon-university",
+  "country": "hungary",
+  "label": "Pannon University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hg-pazmany-peter-catholic-university",
+  "country": "hungary",
+  "label": "Pazmany Peter Catholic University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hg-szechenyi-istvan-university",
+  "country": "hungary",
+  "label": "Széchenyi István University",
+  "aliases": [
+    "University of Széchenyi István"
+  ],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "hg-debrecen-university",
+  "country": "hungary",
+  "label": "University of Debrecen",
+  "aliases": [
+    "Debrecen University"
+  ],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "hungary",
+  "label": "University of Miskolc",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "hungary",
+  "label": "University of Óbuda",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "hungary",
+  "label": "University of Szeged",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "hungary",
+  "label": "University of Pécs",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "india",
+  "label": "Indian Institutes of Technology",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "india",
+  "label": "Indian Statistical Institute",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "india",
+  "label": "National Institutes of Technology Jamia Millia Islamia",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "india",
+  "label": "Birla Institute of Technology",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "india",
+  "label": "Birla Institute of Technology and Science",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "india",
+  "label": "Jaypee Institute of Information Technology University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "india",
+  "label": "Manipal Institute of Technology",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "india",
+  "label": "MITM University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "italy",
+  "label": "University of Pisa",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "japan",
+  "label": "Tokyo University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "jordan",
+  "label": "Jordan University of Science and Technology",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "jordan",
+  "label": "University of Jordan",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "jordan",
+  "label": "Princess Sumaya University for Technology",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "jordan",
+  "label": "German-Jordanian University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "jordan",
+  "label": "Hashemite University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "jordan",
+  "label": "Yarmouk University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "lebanon",
+  "label": "American University of Beirut",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "mongolia",
+  "label": "Mongolian University of Science and Technology",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "nepal",
+  "label": "Tribhuvan University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "nepal",
+  "label": "Kathmandu University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "nepal",
+  "label": "Pokhara University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "nepal",
+  "label": "Purbanchal University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "country": "tunisia",
+  "label": "Sousse University",
+  "aliases": [
+    "Université de Sousse"
+  ],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "nl-delft-iot",
+  "street": "Mekelweg 2",
+  "city": "Delft",
+  "zip_code": "2628 CD",
+  "country": "netherland",
+  "location": [52.316667, 5.55],
+  "label": {
+    "en": "Delft Institute of Technology",
+    "fr": "Institut Technologique de Delft"
+  },
+  "aliases": {
+    "fr": [
+      "Institut De Technologie de Delft",
+       "Institut Technologique de Delft"
+    ],
+    "en": [
+      "Delft Institute of Technology",
+      "Delft Technology Institute",
+      "TU Delft"
+    ]
+  },
+  "website": "tudelft.nl/en",
+  "students": [{
+    "value": 19613,
+    "year": 2015
+  }],
+  "undergraduates": [{
+    "value": 10900,
+    "year": 2015
+  }],
+  "postgraduates": [{
+    "value": 6300,
+    "year": 2015
+  }],
+  "doctoral_students": [{
+    "value": 2300,
+    "year": 2015
+  }],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "nz-victoria-university-of-wellington",
+  "country": "new zealand",
+  "label": "Victoria University of Wellington",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-middle-east-technical-university",
+  "country": "turkey",
+  "label": "Middle East Technical University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-atilim-university",
+  "country": "turkey",
+  "label": "Atılım University",
+  "aliases": [
+    "Atilim University",
+    "University of Atılım",
+    "University of Atilim"
+  ],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-bilkent",
+  "country": "turkey",
+  "label": "Bilkent University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-bogazici-university",
+  "country": "turkey",
+  "label": "Bogazici University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-cankaya-university",
+  "country": "turkey",
+  "label": "Cankaya University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-istanbul-technical-university",
+  "country": "turkey",
+  "label": "Istanbul Technical University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-izmir-institute-of-technology",
+  "country": "turkey",
+  "label": "İzmir Institute of Technology",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-ankara-university",
+  "country": "turkey",
+  "label": "Ankara University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}, {
+  "id": "tr-marmara-university",
+  "country": "turkey",
+  "label": "Marmara University",
+  "aliases": [],
+  "programs": ["Computer Engineering"]
+}]

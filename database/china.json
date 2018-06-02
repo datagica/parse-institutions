@@ -1,0 +1,297 @@
+[{
+  "id": "china-fudan-uni",
+  "country": "China",
+  "city": "Shangai",
+  "location": [31.298889, 121.499167],
+  "aliases": [
+    "Fudan University",
+    "复旦大学",
+    "復旦大學",
+    "Fùdàn Dàxué",
+    "Fuh Tan University",
+    "Universidad Fudan",
+    "Université Fudan",
+    "Università Fudan",
+    "Fudan-Universität",
+    "푸단 대학"
+  ],
+  "label": {
+    "zh": "复旦大学",
+    "en": "Fudan University",
+    "fr": "Université Fudan",
+    "es": "Universidad Fudan",
+    "de": "Fudan-Universität",
+    "ko": "푸단 대학"
+  },
+  "acceptance_rate": [],
+  "students": [{
+    "value": 31900,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-harbin-iot",
+  "country": "China",
+  "city": "Harbin",
+  "location": [45.746998, 126.630692],
+  "aliases": [
+    "Harbin Institute of Technology",
+    "哈尔滨工业大学",
+    "Харбинский политехнический университет",
+    "Institut de technologie de Harbin",
+    "Hā GōngDà"
+  ],
+  "label": {
+    "zh": "哈尔滨工业大学",
+    "en": "Harbin Institute of Technology",
+    "ru": "Харбинский политехнический университет",
+    "fr": "Institut de technologie de Harbin"
+  },
+  "acceptance_rate": [],
+  "students": [{
+    "value": 37712,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-nanjing-uni",
+  "country": "China",
+  "city": "Harbin",
+  "location": [32.056111, 118.775],
+  "label": "Nanjing University",
+  "aliases": [
+    "Nanjing University",
+    "南大",
+    "南京大学",
+    "南京大學",
+    "Nánjīng Dàxué",
+    "Nándà",
+    "Nanda",
+    "Nanking University",
+    "Université de Nankin",
+    "Нанкинский университет",
+    "Наньцзинский университет",
+    "Università di Nanchino",
+    "Universität Nanjing"
+  ],
+
+  "acceptance_rate": [],
+  "students": [{
+    "value": 26658,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-peking-uni",
+  "country": "China",
+  "city": "Beijing",
+  "location": [39.989722, 116.305278],
+  "label": {
+    "en": "Peking University",
+    "fr": "Université de Pékin"
+  },
+  "aliases": [
+    "Peking University",
+    "PKU",
+    "Běidà",
+    "北京大学",
+    "Běijīng Dàxué"
+  ],
+  "acceptance_rate": [],
+  "students": [{
+    "value": 30250,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-tsinghua-uni",
+  "country": "China",
+  "city": "Beijing",
+  "location": [40.0, 116.326667],
+  "label": {
+    "en": "Tsinghua University",
+    "zh": "清華大學",
+    "es": "Universidad Tsinghua",
+    "fr": "Université Tsinghua"
+  },
+  "aliases": [
+    "清華大學",
+    "清华大学",
+    "Qīnghuá Dàxué",
+    "Qinghua Daxue",
+    "THU",
+    "Universidad Tsinghua",
+    "Université Tsinghua",
+    "Tsinghua University"
+  ],
+  "acceptance_rate": [],
+  "students": [{
+    "value": 31708,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-shanghai-jiao-tong-uni",
+  "country": "China",
+  "city": "Shanghai",
+  "location": [31.200833, 121.429722],
+  "label": {
+    "en": "Shanghai Jiao Tong University",
+    "fr": "Université Jiao-tong de Shanghai",
+    "zh": "上海交通大学",
+    "ko": "상하이 자오퉁 대학",
+    "ru": "Шанхайский университет транспорта"
+  },
+  "aliases": [
+    "SJTU",
+    "Shanghai Jiao Tong University",
+    "Université Jiao-tong de Shanghai",
+    "Università Jiao Tong di Shanghai",
+    "Universidad de Shanghái Jiao Tong",
+    "Universidad Jiao Tong de Shangái",
+    "Jiaotong-Universität Shanghai",
+    "上海交通大学",
+    "上海交通大學",
+    "상하이 자오퉁 대학",
+    "Шанхайский университет транспорта",
+    "Shànghǎi Jiāotōng Dàxué",
+    "Shang Hai Jiao Da"
+  ],
+  "acceptance_rate": [],
+  "students": [{
+    "value": 41297,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-uni-of-science-and-technology",
+  "country": "China",
+  "city": "Hefei",
+  "location": [31.866667, 117.283333],
+  "label": {
+    "en": "University of Science and Technology of China",
+    "fr": "Université de sciences et technologie de Chine",
+    "ko": "중국과학기술대학",
+    "ru": "Научно-технический университет Китая"
+  },
+  "aliases": [
+    "USTC",
+    "中国科学技术大学",
+    "University of Science and Technology of China",
+    "Chinese University of Science and Technology",
+    "Chinesische Universität für Wissenschaft und Technik",
+    "Zhōngguó Kēxué Jìshù Dàxué",
+    "Université de sciences et technologie de Chine",
+    "Научно-технический университет Китая",
+    "중국과학기술대학"
+  ],
+  "acceptance_rate": [],
+  "students": [{
+    "value": 16588,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-xian-jiatong-uni",
+  "country": "China",
+  "city": "Xi'an",
+  "location": [34.247222, 108.979167],
+  "label": {
+    "en": "Xi'an Jiaotong University",
+    "fr": "Université Jiaotong de Xi’an"
+  },
+  "aliases": [
+    "XJTU",
+    "JUX",
+    "Xi'an Jiaotong University",
+    "Xian Jiaotong University",
+    "Xi'an Jiao Tong University",
+    "Université Jiaotong de Xi’an",
+    "西安交通大学",
+    "Xī'ān Jiāotōng Dàxué",
+    "Xian Jiaotong Daxue"
+  ],
+  "acceptance_rate": [],
+  "students": [{
+    "value": 32000,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-zhejiang-uni",
+  "country": "China",
+  "city": "Hangzhou",
+  "location": [30.263611, 120.120833],
+  "label": {
+    "zh": "浙江大学",
+    "en": "Zhejiang University",
+    "fr": "Université de Zhejiang",
+    "es": "Universidad de Zhejiang",
+    "ru": "Чжэцзянский университет"
+  },
+  "aliases": [
+    "Zheda",
+    "ZJU",
+    "Zhejiang University",
+    "Che Kiang University",
+    "浙江大学",
+    "浙江大學",
+    "Zhèjiāng Dàxué",
+    "Universidad de Zhejiang",
+    "Université de Zhejiang",
+    "Zhejiang-Universität",
+    "Чжэцзянский университет",
+    "저장 대학"
+  ],
+  "acceptance_rate": [],
+  "students": [{
+    "value": 45678,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "china-shangai-ecnu",
+  "country": "China",
+  "city": "Shangai",
+  "location": [31.228056, 121.4],
+  "label": {
+    "zh": "华东师范大学",
+    "en": "East China Normal University",
+    "fr": "École normale supérieure de l'Est de la Chine"
+  },
+  "aliases": {
+    "zh": [
+      "华东师范大学"
+    ],
+    "en": [
+      "East China Normal University",
+      "ECNU"
+    ],
+    "fr": [
+      "Université normale de la Chine de l'Est",
+      "École normale supérieure de la Chine de l'Est",
+      "École normale supérieure de l'Est de la Chine",
+      "ENS de l'Est de la Chine"
+    ]
+  },
+  "acceptance_rate": [],
+  "undergraduates": [{
+    "value": 14000,
+    "year": 2015
+  }],
+  "postgraduates": [{
+    "value": 14000,
+    "year": 2015
+  }],
+  "type": "public research university",
+  "programs": []
+}]

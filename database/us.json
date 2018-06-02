@@ -1,0 +1,885 @@
+[
+  {
+    "id": "us-ga-uga-school-of-law",
+    "zip_code": "GA 30602",
+    "state": "Georgia",
+    "country": "United States",
+    "location": [33.9549498,-83.3768733],
+    "label": {
+      "en": "UGA School of Law"
+    },
+    "aliases": {
+       "en": ["University of Georgia School of Law"]
+    },
+    "website": "www.law.uga.edu"
+  },
+  {
+    "id": "us-ga-georgia-state-uni",
+    "zip_code": "GA 30302",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "country": "United States",
+    "location": [33.753068,-84.3874706],
+    "label": {
+      "en": "Georgia State University"
+    },
+    "aliases": {
+       "en": [
+         "GSU Atlanta",
+         "Georgia State University",
+         "Georgia State Uni",
+         "Georgia State University, Atlanta",
+         "Georgia State Uni, Atlanta"
+       ]
+    },
+    "website": "gsu.edu"
+  },
+  {
+    "id": "us-ny-sarah-lawrence-college",
+    "street": "1 Mead Way",
+    "city": "Yonkers",
+    "state": "New York",
+    "zip_code": "NY 10708",
+    "country": "United States",
+    "location": [40.9360524,-73.8433974],
+    "label": {
+      "fr": "Sarah Lawrence College",
+      "en": "Sarah Lawrence College"
+    },
+    "aliases": {
+      "fr": "Sarah Lawrence College",
+      "en": "Sarah Lawrence College"
+    },
+    "acceptance_rate": [{
+      "value": 62,
+      "year": 2010
+    }],
+    "students": [{
+      "value": 1736,
+      "year": 2012
+    }],
+    "website": "www.sarahlawrence.edu",
+    "type": ["college", "private", "liberal arts"]
+  },{
+    "id": "us-ca-sdsu",
+    "street": "5500 Campanile Dr",
+    "city": "San Diego",
+    "state": "California",
+    "zip_code": "CA 92182",
+    "country": "United States",
+    "location": [32.7747703,-117.071665],
+    "label": {
+      "fr": "Université d'état de San Diego",
+      "en": "San Diego State University"
+    },
+    "aliases": {
+      "fr": [
+        "Université d'état de San Diego"
+      ],
+      "en": [
+        "SDSU",
+        "San Diego State",
+        "San Diego State University",
+        "San Diego State Uni",
+        "San Diego University",
+        "San Diego Uni"
+      ]
+    },
+    "acceptance_rate": [{
+      "value": 34.5,
+      "year": 2014
+    }],
+    "students": [{
+      "value": 33527,
+      "year": 2014
+    }],
+    "website": "www.sdsu.edu",
+    "programs": [
+      "Bachelor’s of Science with an emphasis in Hotel Operations & Management"
+    ],
+    "type": ["public", "research university"]
+  },
+  {
+  "id": "us-oh-air-force-iot",
+  "country": "United States",
+  "state": "Ohio",
+  "street": "2950 Hobson Way",
+  "zip_code": "OH 45433",
+  "city": "Wright-Patterson Air Force Base",
+  "location":[39.7829488,-84.0824032],
+  "label": {
+    "en": "Ohio Air Force Institute of Technology",
+    "fr": "Ohio Air Force Institute of Technology"
+  },
+  "label": {
+    "en": "Ohio Air Force Institute of Technology",
+    "fr": "Ohio Air Force Institute of Technology"
+  },
+  "aliases": {
+    "en": [
+      "Ohio AFIT",
+      "US Air Force Institue of Technology",
+      "U S Air Force Institue of Technology",
+      "Air Force Institute of Technology",
+      "Ohio Air Force Institute of Technology",
+      "Wright-Patterson Air Force Institute of Technology"
+    ]
+  },
+  "type": ["graduate school", "military"],
+  "programs": [],
+  "students": [{
+    "value": 812,
+    "year": 2010
+  }],
+  "website": "www.afit.edu",
+  "diplomas": [
+    "M.S.",
+    "Ph.D"
+  ]
+}, {
+  "id": "us-az-state-uni",
+  "country": "United States",
+  "state": "Arizona",
+  "city": "Tempe",
+  "location": [33.4106925,-111.9278936],
+  "label": {
+    "en": "Arizona State University",
+    "fr": "Université d'état d'Arizona"
+  },
+  "aliases": {
+    "en": [
+      "Arizona State",
+      "Arizona State University",
+      "Arizona State Uni",
+      "Ariz State",
+      "Ariz State University",
+      "Ariz State Uni",
+      "Arizona State, Tempe",
+      "Arizona State University, Tempe",
+      "Arizona State Uni, Tempe",
+      "Ariz State, Tempe",
+      "Ariz State University, Tempe",
+      "Ariz State Uni, Tempe",
+      "Arizona State Tempe",
+      "Arizona State University Tempe",
+      "Arizona State Uni Tempe",
+      "Ariz State Tempe",
+      "Ariz State University Tempe",
+      "Ariz State Uni Tempe"
+    ],
+    "fr": [
+      "Université d'état de l'Arizona"
+    ]
+  },
+  "type": "public research university",
+  "programs": [],
+  "diplomas": [
+    "B.S.E"
+  ]
+}, {
+  "id": "us-ar-state-uni",
+  "country": "United States",
+  "state": "Arkansas",
+  "city": "Jonesboro",
+  "label": {
+    "en": "Arkansas State University",
+    "fr": "Université d'état de l'Arkansas"
+  },
+  "aliases": {
+    "en": [
+      "Arkansas State",
+      "Arkansas State University",
+      "Arkansas State Uni",
+      "Ark State",
+      "Ark State University",
+      "Ark State Uni",
+      "Arkansas State, Jonesboro",
+      "Arkansas State University, Jonesboro",
+      "Arkansas State Uni, Jonesboro",
+      "Ark State, Jonesboro",
+      "Ark State University, Jonesboro",
+      "Ark State Uni Jonesboro",
+      "Arkansas State Jonesboro",
+      "Arkansas State University Jonesboro",
+      "Arkansas State Uni Jonesboro",
+      "Ark State, Jonesboro",
+      "Ark State University Jonesboro",
+      "Ark State Uni Jonesboro"
+    ],
+    "fr": [
+      "Université d'état de l'Arkansas"
+    ]
+  },
+  "type": "public university",
+  "programs": []
+}, {
+  "id": "us-al-state-uni",
+  "country": "United States",
+  "state": "Alabama",
+  "city": "Auburn",
+  "label": {
+    "en": "Auburn State University",
+    "fr": "Université d'état d'Auburn"
+  },
+  "aliases": {
+    "en": [
+      "Auburn",
+      "Auburn Uni",
+      "Auburn, Alabama",
+      "Auburn, AL",
+      "Auburn State University",
+      "Auburn State University, Alabama",
+      "Auburn State University, AL",
+      "Auburn State Uni",
+      "Auburn State Uni, Alabama",
+      "Auburn State Uni, AL",
+      "Auburn State University Alabama",
+      "Auburn State University AL",
+      "Auburn State Uni Alabama",
+      "Auburn State Uni AL",
+      "Auburn University",
+      "Auburn University, Alabama",
+      "Auburn University, AL",
+      "Auburn Uni",
+      "Auburn Uni, Alabama",
+      "Auburn Uni, AL",
+      "Auburn University Alabama",
+      "Auburn University AL",
+      "Auburn Uni Alabama",
+      "Auburn Uni AL"
+    ]
+  },
+  "type": "public research university",
+  "programs": [
+    "B.S.",
+    "M.S.",
+    "Ph.D"
+  ]
+}, {
+  "id": "us-tx-baylor-university",
+  "country": "United States",
+  "state": "Texas",
+  "city": "Waco",
+  "location": [31.5506704,-97.1103949],
+  "label": {
+    "en": "Baylor University",
+    "fr": "Université Baylor"
+  },
+  "aliases": {
+    "en": [
+      "Baylor Uni",
+      "Baylor University",
+      "Baylor University, Waco, TX",
+      "Baylor University, Waco, Texas",
+      "Baylor University, Waco (Texas)",
+      "Baylor University (Waco, Texas)",
+      "Baylor University, Texas",
+      "Baylor University (Texas)",
+      "Baylor University, Waco (TX)",
+      "Baylor University (Waco, TX)",
+      "Baylor University, TX",
+      "Baylor University (TX)",
+      "Baylor Uni, Waco, TX",
+      "Baylor Uni, Waco, Texas",
+      "Baylor Uni, Waco (Texas)",
+      "Baylor Uni (Waco, Texas)",
+      "Baylor Uni, Texas",
+      "Baylor Uni (Texas)",
+      "Baylor Uni, Waco (TX)",
+      "Baylor Uni (Waco, TX)",
+      "Baylor Uni, TX",
+      "Baylor Uni (TX)",
+      "Baylor University Waco TX",
+      "Baylor University Waco Texas",
+      "Baylor University Waco (Texas)",
+      "Baylor University Texas",
+      "Baylor University (Texas)",
+      "Baylor University Waco (TX)",
+      "Baylor University (Waco TX)",
+      "Baylor University TX",
+      "Baylor University (TX)",
+      "Baylor Uni Waco TX",
+      "Baylor Uni Waco Texas",
+      "Baylor Uni Waco (Texas)",
+      "Baylor Uni (Waco, Texas)",
+      "Baylor Uni Texas",
+      "Baylor Uni Waco (TX)",
+      "Baylor Uni TX"
+    ]
+  },
+  "type": "private Baptist university",
+  "programs": []
+}, {
+  "id": "us-ny-binghamton-uni",
+  "country": "United States",
+  "state": "New York",
+  "city": "Binghamton",
+  "acceptance_rate": [{
+    "year": 2013,
+    "value": 41.7
+  }],
+  "students": [{
+    "year": 2014,
+    "value": 16695
+  }],
+  "label": {
+    "en": "Binghamton University"
+  },
+  "aliases": {
+    "en": [
+      "Binghamton Uni",
+      "Binghamton University",
+      "Binghamton University (New York)",
+      "Binghamton University, New York",
+      "Binghamton University (NY)",
+      "Binghamton University, NY",
+      "Binghamton University, Binghamton (New York)",
+      "Binghamton University, Binghamton, New York",
+      "Binghamton University, Binghamton (NY)",
+      "Binghamton University, Binghamton, NY",
+      "Binghamton Uni (New York)",
+      "Binghamton Uni, New York",
+      "Binghamton Uni (NY)",
+      "Binghamton Uni, NY",
+      "Binghamton Uni, Binghamton (New York)",
+      "Binghamton Uni, Binghamton, New York",
+      "Binghamton Uni, Binghamton (NY)",
+      "Binghamton Uni, Binghamton, NY",
+      "Binghamton University New York",
+      "Binghamton University NY",
+      "Binghamton University Binghamton (New York)",
+      "Binghamton University Binghamton New York",
+      "Binghamton University Binghamton (NY)",
+      "Binghamton University Binghamton, NY",
+      "Binghamton Uni New York",
+      "Binghamton Uni NY",
+      "Binghamton Uni Binghamton (New York)",
+      "Binghamton Uni Binghamton New York",
+      "Binghamton Uni Binghamton (NY)",
+      "Binghamton Uni Binghamton NY"
+    ]
+  },
+  "type": "public research university",
+  "programs": []
+}, {
+  "id": "us-id-boise-state-uni",
+  "country": "United States",
+  "state": "Idaho",
+  "city": "Boise",
+  "acceptance_rate": [{
+    "year": 2013,
+    "value": 78
+  }],
+  "enrollment": [{
+    "year": 2014,
+    "value": 22259
+  }],
+  "label": {
+    "en": "Boise State University"
+  },
+  "aliases": {
+    "en": [
+      "Boise State",
+      "Boise State University",
+      "Boise State (Idaho)",
+      "Boise State, Idaho",
+      "Boise State University (Idaho)",
+      "Boise State University, Idaho",
+      "Boise State (ID)",
+      "Boise State, ID",
+      "Boise State University (ID)",
+      "Boise State University, ID",
+      "Boise State University, Boise (Idaho)",
+      "Boise State University, Boise, Idaho",
+      "Boise State, Boise (ID)",
+      "Boise State, Boise, ID",
+      "Boise State University, Boise (ID)",
+      "Boise State University, Boise, ID",
+      "Boise State Idaho",
+      "Boise State University Idaho",
+      "Boise State ID",
+      "Boise State University ID",
+      "Boise State University Boise Idaho",
+      "Boise State, Boise ID",
+      "Boise State University Boise ID"
+    ]
+  },
+  "type": "public research institution",
+  "programs": []
+},{
+  "id": "us-ma-cambridge-mit",
+  "country": "United States",
+  "state": "Massachusetts",
+  "city": "Cambridge",
+  "location": [42.35982, -71.09211],
+  "acceptance_rate": [{
+    "year": 2015,
+    "value": 32
+  }],
+  "students": [{
+    "year": 2015,
+    "value": 11319
+  }],
+  "label": {
+    "en": "Massachusetts Institute of Technology"
+  },
+  "aliases": {
+    "en": [
+      "Massachusetts Institute of Technology",
+      "MIT",
+      "MIT, Cambridge"
+    ]
+  },
+  "type": "private research university",
+  "programs": []
+},{
+  "id": "us-ma-cambridge-harvard",
+  "country": "United States",
+  "state": "Massachusetts",
+  "city": "Cambridge",
+  "location": [42.374444, -71.116944],
+  "acceptance_rate": [{
+    "year": 2016,
+    "value": 5.4
+  }],
+  "students": [{
+    "year": 2014,
+    "value": 21000
+  }],
+  "label": {
+    "en": "Harvard University"
+  },
+  "aliases": {
+    "en": [
+      "Harvard",
+      "Harvard College",
+      "Harvard Uni",
+      "Harvard Uni Cambridge",
+      "Harvard Univ",
+      "Harvard Univ Cambridge",
+      "Harvard University",
+      "Harvard University Cambridge",
+      "Harvard University, Cambridge",
+      "Harvard Cambridge"
+    ]
+  },
+  "type": "private university",
+  "programs": []
+}, {
+  "id": "us-ma-boston-uni",
+  "country": "United States",
+  "state": "Massachusetts",
+  "city": "Boston",
+  "location": [42.3496, -71.0997],
+  "acceptance_rate": [{
+    "year": 2015,
+    "value": 32
+  }],
+  "students": [{
+    "year": 2015,
+    "value": 30009
+  }],
+  "label": {
+    "en": "Boston University"
+  },
+  "aliases": {
+    "en": [
+      "Boston University",
+      "Boston University (Massachusetts)",
+      "Boston University, Massachusetts",
+      "Boston University, MA",
+      "Boston University, Boston, Massachusetts",
+      "Boston University, Boston, MA",
+      "Boston Uni (Massachusetts)",
+      "Boston Uni, Massachusetts",
+      "Boston Uni, MA",
+      "Boston Uni, Boston, Massachusetts",
+      "Boston Uni, Boston, MA",
+      "Boston University Massachusetts",
+      "Boston University MA",
+      "Boston University Boston Massachusetts",
+      "Boston University Boston MA",
+      "Boston Uni Massachusetts",
+      "Boston Uni MA",
+      "Boston Uni Boston, Massachusetts",
+      "Boston Uni Boston, MA"
+    ]
+  },
+  "type": "private research university",
+  "programs": []
+}, {
+  "id": "us-ut-brigham-young-uni",
+  "country": "United States",
+  "state": "Utah",
+  "city": "Provo",
+  "acceptance_rate": [{
+    "year": 2014,
+    "value": 49
+  }],
+  "students": [{
+    "year": 2014,
+    "value": 29672
+  }],
+  "label": {
+    "en": "Brigham Young University"
+  },
+  "aliases": [
+    "Brigham Young University",
+    "Brigham Young University, UT",
+    "Brigham Young University, Utah",
+    "Brigham Young University, Provo, UT",
+    "Brigham Young University, Provo, Utah",
+    "Brigham Young Uni, UT",
+    "Brigham Young Uni, Utah",
+    "Brigham Young Uni, Provo, UT",
+    "Brigham Young Uni, Provo, Utah",
+    "Brigham Young University UT",
+    "Brigham Young University Utah",
+    "Brigham Young University Provo UT",
+    "Brigham Young University Provo Utah",
+    "Brigham Young Uni UT",
+    "Brigham Young Uni Utah",
+    "Brigham Young Uni Provo UT",
+    "Brigham Young Uni Provo Utah"
+  ],
+  "type": "private research university",
+  "programs": []
+}, {
+  "id": "us-ri-brown-uni",
+  "country": "United States",
+  "state": "Rhode Island",
+  "city": "Providence",
+  "location": [41.8267718,-71.4047369],
+  "acceptance_rate": [{
+    "year": 2014,
+    "value": 8.7
+  }],
+  "students": [{
+    "year": 2014,
+    "value": 8848
+  }],
+  "label": {
+    "en": "Brown University"
+  },
+  "aliases": {
+    "en": [
+      "Brown Uni",
+      "Brown University",
+      "Brown University, Providence",
+      "Brown University, Providence, Rhode Island",
+      "Brown University, Rhode Island",
+      "Brown University, Providence, RI",
+      "Brown University, RI",
+      "Brown Uni, Providence",
+      "Brown Uni, Providence, Rhode Island",
+      "Brown Uni, Rhode Island",
+      "Brown Uni, Providence, RI",
+      "Brown Uni, RI",
+      "Brown University Providence",
+      "Brown University Providence, Rhode Island",
+      "Brown University Rhode Island",
+      "Brown University Providence, RI",
+      "Brown University RI",
+      "Brown Uni Providence",
+      "Brown Uni Providence Rhode Island",
+      "Brown Uni Rhode Island",
+      "Brown Uni Providence RI",
+      "Brown Uni RI"
+    ]
+  },
+  "type": "private Ivy League research university",
+  "programs": []
+}, {
+  "id": "us-ca-pomona-poly-uni",
+  "country": "United States",
+  "state": "California",
+  "city": "Pomona",
+  "acceptance_rate": [{
+    "year": 2013,
+    "value": 529
+  }],
+  "students": [{
+    "year": 2014,
+    "value": 23966
+  }],
+  "label": {
+    "en": "California State Polytechnic University, Pomona"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Pomona",
+      "Cal State Poly Uni Pomona",
+      "Cal State Polytechnic Uni, Pomona",
+      "Cal State Polytechnic University, Pomona",
+      "California State Poly Uni Pomona",
+      "California State Polytechnic Uni, Pomona",
+      "California State Polytechnic University, Pomona",
+      "Cal State Polytechnic Uni Pomona",
+      "Cal State Polytechnic University Pomona",
+      "California State Polytechnic Uni Pomona",
+      "California State Polytechnic University Pomona"
+    ]
+  },
+  "type": "public polytechnic university",
+  "programs": []
+}, {
+  "id": "us-ca-bakersfield-state-university",
+  "country": "United States",
+  "state": "California",
+  "city": "Bakersfield",
+  "acceptance_rate": [{
+    "year": 2010,
+    "value": 66
+  }],
+  "students": [{
+    "year": 2011,
+    "value": 8002
+  }],
+  "label": {
+    "en": "California State University, Bakersfield"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Bakersfield",
+      "California State University, Bakersfield",
+      "California State Uni, Bakersfield",
+      "Cal State University, Bakersfield",
+      "Cal State Uni, Bakersfield",
+      "California State University Bakersfield",
+      "California State Uni Bakersfield",
+      "Cal State University Bakersfield",
+      "Cal State Uni Bakersfield"
+    ]
+  },
+  "type": "public polytechnic university",
+  "programs": []
+}, {
+  "id": "us-ca-chico-poly-university",
+  "country": "United States",
+  "state": "California",
+  "city": "Chico",
+  "acceptance_rate": [{
+    "year": 2013,
+    "value": 67.2
+  }],
+  "students": [{
+    "year": 2014,
+    "value": 17287
+  }],
+  "label": {
+    "en": "California State University, Chico"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Chico",
+      "California State University, Chico",
+      "California State Uni, Chico",
+      "Cal State University, Chico",
+      "Cal State Uni, Chico",
+      "California State University Chico",
+      "California State Uni Chico",
+      "Cal State University Chico",
+      "Cal State Uni Chico"
+    ]
+  },
+  "type": "public polytechnic university",
+  "programs": []
+}, {
+  "id": "us-ca-state-uni",
+  "country": "United States",
+  "state": "California",
+  "city": "Dominguez Hills",
+  "acceptance_rate": [{
+    "year": 2010,
+    "value": 58
+  }],
+  "students": [{
+    "year": 2014,
+    "value": 14691
+  }],
+  "label": {
+    "en": "California State University, Dominguez Hills"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Dominguez Hills",
+      "California State University, Dominguez Hills",
+      "California State Uni, Dominguez Hills",
+      "Cal State University, Dominguez Hills",
+      "Cal State Uni, Dominguez Hills",
+      "California State University Dominguez Hills",
+      "California State Uni Dominguez Hills",
+      "Cal State University Dominguez Hills",
+      "Cal State Uni Dominguez Hills"
+    ]
+  },
+  "type": "public polytechnic university",
+  "programs": []
+}, {
+  "id": "us-ca-fullerton-state-uni",
+  "country": "United States",
+  "state": "California",
+  "city": "Fullerton",
+  "acceptance_rate": [{
+    "year": 2013,
+    "value": 48
+  }],
+  "students": [{
+    "year": 2014,
+    "value": 32128
+  }],
+  "label": {
+    "en": "California State University, Fullerton"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Fullerton",
+      "California State University, Fullerton",
+      "California State Uni, Fullerton",
+      "Cal State University, Fullerton",
+      "Cal State Uni Fullerton",
+      "California State University Fullerton",
+      "California State Uni Fullerton",
+      "Cal State University Fullerton",
+      "Cal State Uni Fullerton"
+    ]
+  },
+  "type": "public polytechnic university",
+  "programs": []
+}, {
+  "id": "us-ca-long-beach-poly-uni",
+  "country": "United States",
+  "state": "California",
+  "city": "Long Beach",
+  "acceptance_rate": [{
+    "year": 2015,
+    "value": 34.2
+  }],
+  "enrollment": [{
+    "year": 2015,
+    "value": 3987
+  }],
+  "students": [{
+    "year": 2015,
+    "value": 33515
+  }],
+  "label": {
+    "en": "California State University, Long Beach"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Long Beach",
+      "Cal State Poly Uni Long Beach",
+      "Cal State Polytechnic Uni, Long Beach",
+      "Cal State Polytechnic University, Long Beach",
+      "Cal State Polytechnic Uni Long Beach",
+      "Cal State Polytechnic University Long Beach",
+      "California State Poly Uni Long Beach",
+      "California State Polytechnic Uni, Long Beach",
+      "California State Polytechnic University, Long Beach",
+      "California State Polytechnic Uni Long Beach",
+      "California State Polytechnic University Long Beach"
+    ]
+  },
+  "type": "public polytechnic university",
+  "programs": []
+}, {
+  "id": "us-ca-los-angeles-poly-uni",
+  "country": "United States",
+  "state": "California",
+  "city": "Los Angeles",
+  "acceptance_rate": [{
+    "year": 2013,
+    "value": 62.5
+  }],
+  "enrollment": [{
+    "year": 2014,
+    "value": 2061
+  }],
+  "students": [{
+    "year": 2015,
+    "value": 20142
+  }],
+  "label": {
+    "en": "California State University, Los Angeles"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Los Angeles",
+      "Cal State Poly Uni Los Angeles",
+      "Cal State Polytechnic Uni, Los Angeles",
+      "Cal State Polytechnic University, Los Angeles",
+      "Cal State Polytechnic Uni Los Angeles",
+      "Cal State Polytechnic University Los Angeles",
+      "California State Poly Uni Los Angeles",
+      "California State Polytechnic Uni, Los Angeles",
+      "California State Polytechnic University, Los Angeles",
+      "California State Polytechnic Uni Los Angeles",
+      "California State Polytechnic University Los Angeles",
+      "Cal Poly LA",
+      "Cal State Poly Uni LA",
+      "Cal State Polytechnic Uni, LA",
+      "Cal State Polytechnic University, LA",
+      "Cal State Polytechnic Uni LA",
+      "Cal State Polytechnic University LA",
+      "California State Poly Uni LA",
+      "California State Polytechnic Uni, LA",
+      "California State Polytechnic University, LA",
+      "California State Polytechnic Uni LA",
+      "California State Polytechnic University LA"
+    ]
+  },
+  "type": "public polytechnic university",
+  "programs": []
+}, {
+  "id": "us-ca-northridge-poly-uni",
+  "country": "United States",
+  "state": "California",
+  "city": "Northridge",
+  "label": {
+    "en": "California State University, Northridge"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Northridge",
+      "Cal State Poly Uni Northridge",
+      "Cal State Polytechnic Uni, Northridge",
+      "Cal State Polytechnic University, Northridge",
+      "Cal State Polytechnic Uni Northridge",
+      "Cal State Polytechnic University Northridge",
+      "California State Poly Uni Northridge",
+      "California State Polytechnic Uni, Northridge",
+      "California State Polytechnic University, Northridge",
+      "California State Polytechnic Uni Northridge",
+      "California State Polytechnic University Northridge"
+    ]
+  },
+  "type": "public polytechnic university",
+  "programs": []
+}, {
+  "id": "us-ca-sacramento-poly-uni",
+  "country": "United States",
+  "state": "California",
+  "city": "Sacramento",
+  "label": {
+    "en": "California State University, Sacramento"
+  },
+  "aliases": {
+    "en": [
+      "Cal Poly Sacramento",
+      "Cal State Poly Uni Sacramento",
+      "Cal State Polytechnic Uni, Sacramento",
+      "Cal State Polytechnic University, Sacramento",
+      "Cal State Polytechnic Uni Sacramento",
+      "Cal State Polytechnic University Sacramento",
+      "California State Poly Uni Sacramento",
+      "California State Polytechnic Uni, Sacramento",
+      "California State Polytechnic University, Sacramento",
+      "California State Polytechnic Uni Sacramento",
+      "California State Polytechnic University Sacramento"
+    ]
+  },
+
+  "type": "public polytechnic university",
+  "programs": []
+}]
